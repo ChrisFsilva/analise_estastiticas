@@ -39,11 +39,11 @@ Este projeto em Python analisa uma lista de 30 produtos voltados para informáti
 
 #### Funcionalidades
 
-```bash
-- Extrai valores de preços de um dicionário de produtos.
-- Calcula média, mediana, moda, variância e desvio padrão.
-- Apresenta os resultados de forma clara no terminal.
-```
+  ```bash
+  - Extrai valores de preços de um dicionário de produtos.
+  - Calcula média, mediana, moda, variância e desvio padrão.
+  - Apresenta os resultados de forma clara no terminal.
+  ```
 
 ---
 
