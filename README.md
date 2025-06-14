@@ -1,6 +1,6 @@
 <h1 align="center">Análise Estatística de Produtos de Informática</h1>			
 <br>
-<h4 align="center"> 📊 Estatísticas Básicas Calculadas 📊 </h4>
+<h4 align="center"> 📊 Estatísticas Básicas Calculadas (Material de estudo) 📊 </h4>
 
 Tabela de conteúdos
 =================
