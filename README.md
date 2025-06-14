@@ -33,7 +33,7 @@ Este projeto em Python analisa uma lista de 30 produtos voltados para informáti
 2. Instale o numpy (se desejar usar):  
    ```bash
    pip install numpy
-````
+  ```
 
 3. Execute o script principal para gerar as estatísticas.
 
